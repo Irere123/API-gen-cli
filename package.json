@@ -1,0 +1,39 @@
+{
+  "name": "@ts-api/gen",
+  "version": "1.0.0",
+  "description": "Generate your Graphql and Rest APIs with in seconds",
+  "main": "dist/index.js",
+  "bin": "dist/index.js",
+  "author": "Irere Emmanuel",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^8.1.2",
+    "@types/ncp": "^2.0.5",
+    "nodemon": "^2.0.13",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.5",
+    "ncp": "^2.0.0"
+  },
+  "scripts": {
+    "watch": "tsc -w",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "api generator",
+    "graphql api",
+    "rest api",
+    "typeorm",
+    "postgres"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irere123/API-Gen-CLI"
+  },
+  "bugs": {
+    "type": "git",
+    "url": "git+https://github.com/Irere123/API-Gen-CLI/issues"
+  },
+  "homepage": "https://github.com/Irere123/API-Gen-CLI#readme"
+}
