@@ -11,7 +11,7 @@
 > Using `npx`
 
 ```bash
-$ npx ts-api-gen
+npx ts-api-gen
 ```
 
 This is will set up a folder that contains your api, The API uses TypeORM as an Object Relational Mapper and Postgres as a database
@@ -19,13 +19,13 @@ This is will set up a folder that contains your api, The API uses TypeORM as an 
 > Using `npm` to globally install it
 
 ```bash
-$ npm i -g ts-api-gen
+npm i -g ts-api-gen
 ```
 
 #### Then run this command to generate an `api`
 
 ```bash
-$ ts-api-gen
+ts-api-gen
 ```
 
 ## How to contribute
