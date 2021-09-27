@@ -1,7 +1,7 @@
 {
   "name": "ts-api-gen",
   "version": "1.0.0",
-  "description": "Generate your Graphql and Rest APIs with in seconds",
+  "description": "Generate your Graphql and Rest APIs within seconds",
   "main": "dist/index.js",
   "bin": "dist/index.js",
   "author": "Irere Emmanuel",
