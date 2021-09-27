@@ -1,5 +1,5 @@
 {
-  "name": "@ts-api/gen",
+  "name": "ts-api-gen",
   "version": "1.0.0",
   "description": "Generate your Graphql and Rest APIs with in seconds",
   "main": "dist/index.js",
