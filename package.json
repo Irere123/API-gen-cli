@@ -1,6 +1,6 @@
 {
   "name": "create-custom-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate your Graphql and Rest APIs within seconds",
   "main": "dist/index.js",
   "bin": "dist/index.js",
