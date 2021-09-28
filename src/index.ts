@@ -22,8 +22,9 @@ const CHOICES = fs.readdirSync(`${__dirname}/${TEMPLATE_DIR}`);
 const QUESTIONS = [
   {
     name: "api-to-generate",
-    type: "list",
-    message: "What API would do you like to use in your project ?",
+    type: "checkbox",
+    message:
+      "What API would do you like to use in your project (Select only one) ?",
     choices: CHOICES,
   },
   {
